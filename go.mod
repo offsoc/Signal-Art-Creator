@@ -1,6 +1,7 @@
 module github.com/signalapp/art-service
 
 go 1.19
+toolchain go1.24.1
 
 require (
 	github.com/DataDog/datadog-go/v5 v5.5.0
@@ -11,7 +12,7 @@ require (
 	github.com/fasthttp/websocket v1.5.8
 	github.com/go-playground/validator/v10 v10.19.0
 	github.com/jessevdk/go-flags v1.5.0
-	github.com/redis/go-redis/v9 v9.5.1
+	github.com/redis/go-redis/v9 v9.5.5
 	github.com/rs/zerolog v1.32.0
 	github.com/valyala/fasthttp v1.52.0
 	google.golang.org/protobuf v1.33.0
