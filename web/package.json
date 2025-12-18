@@ -66,13 +66,13 @@
     "eslint-config-airbnb-typescript-prettier": "^5.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.31.11",
-    "happy-dom": "^15.11.0",
+    "happy-dom": "^20.0.10",
     "prettier": "^2.8.0",
     "rollup-plugin-gzip": "^3.1.0",
     "rollup-plugin-visualizer": "^5.8.3",
     "sass": "^1.56.1",
     "typescript": "^4.9.3",
-    "vite": "^6.3.4",
+    "vite": "^6.4.1",
     "vitest": "^3.0.9"
   }
 }
